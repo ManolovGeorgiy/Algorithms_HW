@@ -38,8 +38,6 @@ public class SpecialStack {
         }
         return minStack.peek();
     }
-
-    // Пример использования
     public static void main(String[] args) {
         SpecialStack specialStack = new SpecialStack();
         specialStack.push(6);
